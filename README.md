@@ -1,6 +1,6 @@
 [![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
 
-# Análisis de Accidentes en Madrid (2023) 🚗💥
+# Análisis de Accidentes en Madrid (2023)
 Los datos utilizados en este análisis provienen de la base de datos de la Ciudad de Madrid sobre los accidentes ocurridos en el año 2023. Estos datos contienen información detallada sobre cada accidente, incluyendo la fecha, hora, ubicación, condiciones meteorológicas, tipos de vehículos involucrados, tipos de personas afectadas, lesiones sufridas y resultados de pruebas de alcohol y drogas.
 
 ## Estructura de los Datos
